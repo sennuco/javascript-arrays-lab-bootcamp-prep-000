@@ -12,3 +12,6 @@ function destructivelyPrependKitten(name){
   kittens.unshift(name);
   return kittens
 }
+
+//Step Four: Arrays destructivelyRemoveLastKitten() removes the last kitten from the kittens array:
+destructivelyRemoveLastKitten()
