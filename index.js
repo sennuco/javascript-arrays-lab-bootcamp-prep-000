@@ -30,3 +30,5 @@ function appendKitten(name){
 return [...kittens, name];
   
 }
+
+//Step Seven:
