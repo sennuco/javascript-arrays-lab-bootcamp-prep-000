@@ -19,4 +19,7 @@ function destructivelyRemoveLastKitten(){
   return kittens
 }
 
-//Step Five: 
+//Step Five: Arrays destructivelyRemoveFirstKitten() removes the First kitten from the kittens array:
+function destructivelyRemoveFirstKitten() {
+  
+}
